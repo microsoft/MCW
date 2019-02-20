@@ -50,3 +50,4 @@ Here is the list of workshops currently being maintained, before creating a new 
 ## Contributed Content
 Here is list of contributed content that is related to the Microsoft Cloud Workshop program, these may be similar content or forks of workshops that we want to make sure everyone is aware of:
 - [What the Hack? Challenge-Based Hackathons](https://github.com/microsoft/whatthehack)
+- [AI Labs by the MTC (By Jarek K](https://github.com/Microsoft/MTC_AzureAILabs)
