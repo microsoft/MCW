@@ -12,6 +12,7 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 
 1. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
 1. [Azure security and management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
+1. [Azure Stack](https://github.com/microsoft/MCW-Azure-Stack)
 1. [Business continuity and disaster recovery](https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery)
 1. [Enterprise-ready cloud](https://github.com/Microsoft/MCW-Enterprise-Ready-Cloud)
 1. [Intelligent vending machines](https://github.com/Microsoft/MCW-Intelligent-Vending-Machines)
