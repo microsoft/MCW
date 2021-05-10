@@ -17,7 +17,7 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 1. [Enterprise-ready cloud](https://github.com/Microsoft/MCW-Enterprise-Ready-Cloud)
 1. [Intelligent vending machines](https://github.com/Microsoft/MCW-Intelligent-Vending-Machines)
 1. [IoT and the Smart City](https://github.com/microsoft/MCW-IoT-and-the-Smart-City)
-2. 1. [Lift and shift/Azure Resource Manager](https://github.com/Microsoft/MCW-Lift-and-shift-Azure-Resource-Manager)
+1. [Lift and shift/Azure Resource Manager](https://github.com/Microsoft/MCW-Lift-and-shift-Azure-Resource-Manager)
 3. [Linux lift and shift](https://github.com/Microsoft/MCW-Linux-Lift-and-Shift)
 4. [Media AI](https://github.com/Microsoft/MCW-Media-AI)
 5. [Microservices architecture](https://github.com/Microsoft/MCW-Microservices-Architecture)
