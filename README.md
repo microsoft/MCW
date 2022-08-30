@@ -12,6 +12,7 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 
 1. [AI-led business process automation](https://github.com/microsoft/MCW-AI-led-business-process-automation)
 2. [Analyzing text with Azure Machine Learning and Cognitive Services](https://github.com/microsoft/MCW-Analyzing-text-with-Azure-Machine-Learning-and-Cognitive-Services)
+1. [App modernization](https://github.com/Microsoft/MCW-App-Modernization)
 3. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
 4. [Azure security and management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
 5. [Azure Stack](https://github.com/microsoft/MCW-Azure-Stack)
@@ -35,6 +36,8 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 23. [Media AI](https://github.com/Microsoft/MCW-Media-AI)
 24. [Microservices architecture](https://github.com/Microsoft/MCW-Microservices-Architecture)
 25. [Migrate EDW to Azure SQL Data Warehouse](https://github.com/Microsoft/MCW-Migrate-EDW-to-Azure-SQL-Data-Warehouse)
+25. [Migrating Oracle to Azure SQL and PostgreSQL](https://github.com/Microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL)
+25. [Migrating SQL databases to Azure](https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure)
 26. [MLOps](https://github.com/microsoft/MCW-ML-Ops)
 27. [Mobile app innovation](https://github.com/Microsoft/MCW-Mobile-App-Innovation)
 28. [Modern cloud apps](https://github.com/Microsoft/MCW-Modern-Cloud-Apps)
