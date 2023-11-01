@@ -49,13 +49,14 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 36. [OSS PaaS and DevOps](https://github.com/Microsoft/MCW-OSS-PaaS-and-DevOps)
 37. [Predictive Maintenance for remote field devices](https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices)
 38. [Real-time data with Azure Database for PostgreSQL Hyperscale](https://github.com/Microsoft/MCW-Real-time-data-with-Azure-Database-for-PostgreSQL-Hyperscale)
-39. [SAP NetWeaver on Azure](https://github.com/Microsoft/MCW-SAP-NetWeaver-on-Azure)
-40. [Securing Azure IoT solutions](https://github.com/microsoft/MCW-Securing-Azure-IoT-solutions)
-41. [Securing PaaS](https://github.com/Microsoft/MCW-Securing-PaaS)
-42. [Security baseline on Azure](https://github.com/Microsoft/MCW-Security-baseline-on-Azure)
-43. [Serverless architecture](https://github.com/Microsoft/MCW-Serverless-Architecture)
-44. [SQL Server hybrid cloud](https://github.com/Microsoft/MCW-SQL-Server-hybrid-cloud)
-45. [Windows Server and SQL Server 2008 R2 end of support planning](https://github.com/Microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning)
+39. [SAP HANA on Azure](https://github.com/microsoft/MCW-SAP-HANA-on-Azure/tree/master)
+40. [SAP NetWeaver on Azure](https://github.com/Microsoft/MCW-SAP-NetWeaver-on-Azure)
+41. [Securing Azure IoT solutions](https://github.com/microsoft/MCW-Securing-Azure-IoT-solutions)
+42. [Securing PaaS](https://github.com/Microsoft/MCW-Securing-PaaS)
+43. [Security baseline on Azure](https://github.com/Microsoft/MCW-Security-baseline-on-Azure)
+44. [Serverless architecture](https://github.com/Microsoft/MCW-Serverless-Architecture)
+45. [SQL Server hybrid cloud](https://github.com/Microsoft/MCW-SQL-Server-hybrid-cloud)
+46. [Windows Server and SQL Server 2008 R2 end of support planning](https://github.com/Microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning)
 
 ## New workshop template
 To create your own MCW, you can find the master template for new workshops located [here](https://github.com/Microsoft/MCW-Template-Cloud-Workshop). If you are interested in creating a new workshop, please reach out to askmcw@microsoft.com. 
