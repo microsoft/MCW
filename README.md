@@ -25,7 +25,7 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 12. [Cosmos DB real-time advanced analytics](https://github.com/Microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics)
 13. [Enterprise-ready cloud](https://github.com/Microsoft/MCW-Enterprise-Ready-Cloud)
 14. [High Performance Computing](https://github.com/microsoft/MCW-High-Performance-Computing)
-15. [Hybrid Identify](https://github.com/microsoft/MCW-Hybrid-identity)
+15. [Hybrid Identity](https://github.com/microsoft/MCW-Hybrid-identity)
 16. [Innovate and modernize apps with Data and AI](https://github.com/microsoft/MCW-Innovate-and-modernize-apps-with-Data-and-AI)
 17. [Internet of Things](https://github.com/Microsoft/MCW-Internet-of-Things)
 18. [Intelligent analytics](https://github.com/Microsoft/MCW-Intelligent-analytics)
