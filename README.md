@@ -19,7 +19,7 @@ To access current workshop repos, please visit [Microsoft Cloud Workshop](http:/
 6. [Azure Synapse Analytics and AI](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI)
 7. [Big data analytics and visualization](https://github.com/microsoft/MCW-Big-data-analytics-and-visualization)
 8. [Building an infrastructure migration strategy](https://github.com/microsoft/MCW-Building-an-infrastructure-migration-strategy)
-9. [Building an infrastructure migration strategy](https://github.com/microsoft/MCW-Building-a-resilient-IaaS-architecture)
+9. [Building a resilient IaaS architecture](https://github.com/microsoft/MCW-Building-a-resilient-IaaS-architecture)
 10. [Business continuity and disaster recovery](https://github.com/Microsoft/MCW-Business-Continuity-and-Disaster-Recovery)
 11. [Cloud-native applications](https://github.com/Microsoft/MCW-Cloud-native-applications)
 12. [Continuous delivery in Azure DevOps](https://github.com/Microsoft/MCW-Continuous-Delivery-in-Azure-DevOps)
